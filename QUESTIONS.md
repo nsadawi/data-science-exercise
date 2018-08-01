@@ -7,7 +7,9 @@ Reference your own code/Notebooks where relevant.
 2. What is the error of your prediction?
 
    a. How did you estimate the error?
+   
    b. How do the train and test errors compare?
+   
    c. How will this error change for predicting a further week/month/year into the future?
    
 3. What improvements to your approach would you pursue next? Why?
