@@ -10,7 +10,7 @@ The columns are:
 - `usage`: usage for the given household and half-hour (in kWh)
 
 `usage_test.csv` is similar to `usage_train.csv`, but is missing the `usage` column.
-We would like you to predict `usage` for each row (household/half-hour) in `usage_train.csv`.
+We would like you to predict `usage` for each row (household/half-hour) in `usage_test.csv`.
 
 ## Submission
 We are interested in how you approach an open-ended machine learning problem.
