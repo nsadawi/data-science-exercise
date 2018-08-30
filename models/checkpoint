@@ -1,0 +1,2 @@
+model_checkpoint_path: "energy_consumption_rnn_model.ckpt"
+all_model_checkpoint_paths: "energy_consumption_rnn_model.ckpt"
