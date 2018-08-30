@@ -1,3 +1,9 @@
+# Please check the Jupyter notebook first as it has explanation of what I have done and why I have done it
+
+## Python version: 3.6
+
+## Packges: Tensorflow, Pandas and NumPy
+
 # USIO Energy Data Science Exercise
 You will use historic energy usage data from a number of households to forecast their future
 usage.
